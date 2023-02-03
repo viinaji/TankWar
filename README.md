@@ -1,5 +1,6 @@
+# Mini Tank Game - Code Example
 
-# Project Title
+Code example of mini tank game that i learned from this https://www.udemy.com/course/unrealcourse tutorial
 
-A brief description of what this project does and who it's for
+Demo video : https://ReplaceWithYoutubeVideo
 
